@@ -1,0 +1,19 @@
+{
+  "name": "fe_node",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyu0909/FE_Node.git"
+  },
+  "author": "wangyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangyu0909/FE_Node/issues"
+  },
+  "homepage": "https://github.com/wangyu0909/FE_Node#readme"
+}
